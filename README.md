@@ -51,5 +51,7 @@ Microcontroller-based sensor network logging environmental data.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=violetChai&style=flat&color=blue)
 
-> “Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke
+> 💻"The best way to predict the future is to invent it." Alan Kay
+> 🎮"A game is a problem-solving activity, approached with a playful attitude." Jesse Schell
+> 🤖"The robot revolution is not about replacing humans, but enhancing what we can do." Unknown
 
