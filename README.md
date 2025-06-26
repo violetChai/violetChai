@@ -53,7 +53,7 @@ Microcontroller-based sensor network logging environmental data.
 
 > 💻"*The best way to predict the future is to invent it.*" Alan Kay
 > 
-> 🎮"A game is a problem-solving activity, approached with a playful attitude." Jesse Schell
+> 🎮"*A game is a problem-solving activity, approached with a playful attitude.*" Jesse Schell
 > 
-> 🤖"The robot revolution is not about replacing humans, but enhancing what we can do." Unknown
+> 🤖"*The robot revolution is not about replacing humans, but enhancing what we can do.*" Unknown
 
