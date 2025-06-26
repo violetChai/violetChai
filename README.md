@@ -51,7 +51,7 @@ Microcontroller-based sensor network logging environmental data.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=violetChai&style=flat&color=blue)
 
-> 💻"The best way to predict the future is to invent it." Alan Kay
+> 💻_"The best way to predict the future is to invent it."_ Alan Kay
 > 
 > 🎮"A game is a problem-solving activity, approached with a playful attitude." Jesse Schell
 > 
