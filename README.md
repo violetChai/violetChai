@@ -1,4 +1,4 @@
-![violetChai banner]
+![violetChai banner]https://github.com/violetChai/violetChai/blob/main/violetChai_banner.png
 # 👋 Hello World, I'm violetChai
 
 **Programming | Robotics | Game Dev | Embedded Systems**
